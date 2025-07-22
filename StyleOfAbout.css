@@ -1,0 +1,41 @@
+body{
+    padding: 10px;
+    background-color: #5bc9b1;
+}
+.B{
+    color: rgb(188, 20, 177);
+    text-decoration: underline green;
+    padding: 10px;
+    font-size: 27px;
+}
+.A{
+    font-weight: bold;
+    text-align: left;
+    color: rgb(10, 96, 224);
+    font-size: 2rem;
+    text-decoration: underline rgb(122, 8, 184);
+}
+li{
+    font-size: 25px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+b{
+    color: blue;
+}
+span{
+    color: blue;
+}
+a{
+    text-decoration: underline rgb(255, 255, 255);
+}
+h5{
+    font-size: 25px;
+    color: rgb(10, 96, 224);
+    text-decoration: underline rgb(122, 8, 184);
+}
+.x{
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+}

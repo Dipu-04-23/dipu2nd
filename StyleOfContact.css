@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(47, 150, 143);
+    padding: 10px;
+}
+.A{
+    font-size: 27px;
+    color: rgb(188, 20, 177);
+    text-decoration: underline green;
+    padding: 10px ;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+.l{
+   background-color: white;
+}
